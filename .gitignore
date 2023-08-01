@@ -1,0 +1,9 @@
+.vercel
+*.py[cod]
+.idea
+tmp
+venv
+hexoweb/migrations/__pycache__
+hexoweb/migrations/*.py
+!hexoweb/migrations/__init__.py
+staticfiles_build
